@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209312375579",
+    "project_id": "health-c2726",
+    "storage_bucket": "health-c2726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209312375579:android:3e346432134b011e3769be",
+        "android_client_info": {
+          "package_name": "com.healthcourse.perfectdietmealcourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209312375579-8b1r9dt556p76gvucbf4q65ae5j1jcjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsluQ5j2E1hHCSxmMFIYBmXTsIbn-LAPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209312375579-8b1r9dt556p76gvucbf4q65ae5j1jcjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
